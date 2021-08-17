@@ -402,7 +402,7 @@ table.imgtable, table.imgtable td {
 
 ul
 {
-    list-style-type: disc;
+    list-style-type: decimal;
     /*padding: 0px;*/
     /*margin: 0px;*/
 }
